@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 15
+  mCustomSearchFile: 
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures: []
+  mAudios: []
+  mMeshes: []
+  mAnimations: []
+  mSharedSceneAssets: []
+  mScenes: []
+  mConfigCCD:
+    useCCD: 0
+    uosSecret: 0c4af4ce55ca41998c4433848586556e
+    uosAppid: 7fe8d4d3-8f36-4491-ace7-cc7725936908
+    bucketUuid: 6683a3df-4e55-499c-9e54-af156ea0e332
+    bucketName: DungeonKeeper
+    badgeName: v1
+    ttAppid: 
+    targetPlatfrom: 
